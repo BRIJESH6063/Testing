@@ -1,0 +1,1 @@
+The original file was empty and then file was appended to test.
